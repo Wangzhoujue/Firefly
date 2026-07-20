@@ -23,8 +23,6 @@ export type {
 	SakuraConfig,
 	SidebarLayoutConfig,
 	SiteConfig,
-	SponsorItem,
-	SponsorMethod,
 	WidgetComponentConfig,
 	WidgetComponentType,
 	WidgetSpecificConfig,
